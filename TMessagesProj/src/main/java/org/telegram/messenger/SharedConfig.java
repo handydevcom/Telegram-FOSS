@@ -339,6 +339,8 @@ public class SharedConfig {
     public static boolean translateChats = true;
 
     public static boolean isFloatingDebugActive;
+
+    public static boolean disableStories = true;
     public static LiteMode liteMode;
 
     private static final int[] LOW_SOC = {
